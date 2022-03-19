@@ -1,0 +1,4 @@
+We are using in build database H2 to communicatre with Database \par
+We can access the console of H2 database when we start the application\par
+Console Url: http://localhost:8080/h2-console
+Database available at 'jdbc:h2:mem:testdb'\line\line username : sa\line password: "" (blank)\par
